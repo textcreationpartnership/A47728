@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation being His Majesty's Act of Oblivion to the Hungarian rebels</title>
+            <author>Holy Roman Empire. Emperor (1658-1705 : Leopold I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47728</idno>
+            <idno type="STC">Wing L1114</idno>
+            <idno type="STC">ESTC R13913</idno>
+            <idno type="EEBO-CITATION">15620487</idno>
+            <idno type="OCLC">ocm 15620487</idno>
+            <idno type="VID">104217</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47728)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104217)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1151:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation being His Majesty's Act of Oblivion to the Hungarian rebels</title>
+                  <author>Holy Roman Empire. Emperor (1658-1705 : Leopold I)</author>
+                  <author>Leopold I, Holy Roman Emperor, 1640-1705.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for James Partridge ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Leopold; John Gubasoiry, Bishop of Nitria; John Maholau.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Holy Roman Empire --  History --  Leopold I, 1658-1705 --  Sources.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:104217:1" rendition="simple:additions"/>
+            <head>A PROCLAMATION: Being His Imperial Majeſty's Act of Oblivion to the Hungarian Rebels.</head>
+            <p>WE Leopold, by the Grace of God Elect Emperor of the Romans, alwayes Auguſt, and King of Germany, Hungary, Bohemia, Dal<g ref="char:EOLhyphen"/>matia, Croatia, Sclavonia, &amp;c. Archdeke of Auſtria, Duke of Burgundy, Brabant, Styria, Carinthia, Carniola, Marque's of More<g ref="char:EOLhyphen"/>via, Earl of Habſpurge, Tyrol, &amp; Goriſia, &amp;c. Do hereby make known to all, and every the Inhabitants of our Kingdom of Hungary, and of the States and Councils of all Places thereto adjoining, to wit, Prelates and Barons, Peers and Noblemen, as alſo to the Free and Royal Cities, and to all others of what Eſtate, Degree, Rank and Condition ſoever, whom in any wife it may concern: That as all Chriſtendom cannot but remain ſatisfied of the effectual and Fatherly Care we have hitherto employed for the redeeming our Realm of Hungary from the Domeſtick Troubles in which it has been involved, and thereby brought to great Extremities, and reſtoring it to a Peaceable and Flou<g ref="char:EOLhyphen"/>riſhing Condition; ſo the ſame may more fully appear by the Directions we have given to Perſons of the greateſt Quality, and eminently affected to Peace, by the Conditions offered at ſeveral times to the Rebels, and laſtly by the Dyet held at Oedenburg, which we ſummoned as the only Expedient to remove the preſent Diſtempers, and at which, not without eminent Danger to Our Self we aſſiſted in Perſon, not doubting but that our continuall Labours and Vigilance, for reducing that Noble Kingdom to its former Obedience to its Lawful King, and its own Quiet would prove very ſuccesful and profitable. But on the contrary, ſo far has the Diſaflection of certain Perſideous Men, and the Private Ambition of others by their private Malice prevailed, that they have defeated the Sincere Hearty Deſigns of Loyal Patriots; for ſuch was the Wicked Impudence of theſe Rebels, that by Falſe Perſwaſions they ſeduced many other Inhabi<g ref="char:EOLhyphen"/>tants of this our Kingdom to their Part, having by Purchaſe and Contract ſold thus Apoſtolical Kingdom to the Turkiſh Yoke, actually joyned them<g ref="char:EOLhyphen"/>ſelves with the moſt Barbarous and Hereditary Enemy of Chriſtendom, and Conſumed with Fire and Sword the Inhabitants of their Own Country, and our other Loyal Provinces, till it pleaſed God, in Aſſiſtance to our Juſt Cauſe, to give us repeated Victories, as well over the Turks as our Rebels. What King or Prince can with Patience bear ſuch Obſtinacy of their Subjects, and their Diſobedient taking up Arms againſt their King ? but will not rather pro<g ref="char:EOLhyphen"/>ceed againſt them with all Severity ? But although We might with juſtice employ Our Conquering Arms againſt them, yet ſuch is the Native Affe<g ref="char:EOLhyphen"/>ction, and the Singular Love We have alwayes retained for this moſt Ancient Kingdom, and Conſtant Bulwark of Chriſtendom, that We have rather made choice to extend Our Mercy, then inflict condign Puniſhment upon them, and do ſtill make it Our buſineſs to reſcue, by all Favourable Wayes and Methods, the Seduced Vulgar from the Bonds of perpetual Miſery, to wit, the Turkiſh Yoke, whereunto the Heads of the Rebellion deceiptfully en<g ref="char:EOLhyphen"/>deavour to ſubject them. Being therefore deſirous, out of Our Fatherly Affection, to remove all Specious and Wicked Pretences, which we find are re<g ref="char:EOLhyphen"/>preſented to the Unwary, after having in vain tryed ſo many and ſo differerent Wayes to reduce thoſe that had Erred, We have thought fit by this Our Fatherly Love, to Invite, and Reſtore unto Our Mercy All and Every the Accomplices in the late Rebellion and Revault (None execpted) who ſenſibly and firmly Repent; hereby Promiſing Seriouſly and Firmly, upon the Word of a King, That they who ſhall before the Laſt Day of the Moneth of February next enſuing, make Abjuration of the Horrid Rebellion, and their Wicked Aſſociating with the Turks and Obſtinate Traytors, before the Commiſſioners thereunto impowered by Us, and who are to enter the middle of this Moneth upon the ſaid Function at Presburg, and ſhall again take the Oath of Allegiance due from them unto their Kings, and continue Dutiful Subjects hereafter, All and Singular ſuch Subjects have a general Indemnity and Oblivion, and be more<g ref="char:EOLhyphen"/>over reſtored to their Ancient Nobility, Fame, and Honours, as alſo to all their Goods, as well Immoveable as Moveable, which ſhall be found, and ſhall be put in Actual Poſſeſſion of what they have loſt, by Our Commiſſioners aforeſaid, in this behalf appointed. Still provided, That if any of thoſe that ſhall return, had heretofore any Dignity, Employment, or Office in the Kingdom, ſuch Perſons ſhall give a particuler Account thereof unto the aforeſaid Commiſſioners, who ſhall treat with them about receiving the ſaid Dignities, and upon Repreſentation of his or their reſpective Caſes, ſhall receive Our Royal Pleaſure. And to the intent that the Common Soldiers of Hungary, and their Officers, perticularly thoſe that have been formerly diſmiſt from Our Royal Service, may, not be Deprived of their Neceſſary Maintenance, We will take Effectual Care, by Our ſaid Commiſſioners, that they be Immediately and Actual<g ref="char:EOLhyphen"/>ly received into Pay in the Guarriſons of the Kingdom through the Generalties, or in the Trained Bands of Hungary. Furthermore, Our Counties and Cities have Leave by their Deputies, being thereunto ſufficiently Authorized, to appear before Our ſaid Commiſſioners, and make their Submiſſion, as aforeſaid, to whom as likewiſe to all others who deſign to Reſort to Our Commiſſioners, all and every Our Military Officers ſhall without Fees give Paſſes and Safe<g ref="char:EOLhyphen"/>guards, for their Going and Return. And whereas we have amongſt other things enjoyned Our ſaid Commiſſioners, that upon Complaint grounded upon the Re<g ref="char:EOLhyphen"/>ſolutions of the late Diet of Oedemburg, (which we reſolve ſhall be wholly &amp; inviolably obſerved) Right ſhall be reſpectively done unto them, either in Reſtoring them to their Goods on Tirles or in Purſuance of the 25th or 26th Articles of the ſaid Aſſembly and Reſolution of the Diet, to the free Exerciſe of their Religion, or Churches, and Schooles, ſuch Perſon ſhall by Our ſaid Commiſſioner, be put into actual Poſſeſſion thereof, who ſhall have Liberty to demand the Aſſistance of Our ſaid Commiſſioners to make good their Claim. And whereas the Proclamation ſo much ſpoken of by all Pepole, that was Iſſued at Our Coronation, in the Year 1655. is liable to ſo many Ambiguoas and ſeveral Obſcure Interpretations, that according to the Meaning and Conſtruction of ſome People, the very Baſis and Foundation of Royal Authority and Government, as Experience has ſhown, muſt of neceſſity be ſhaken by it, and the very States and People be divided among themſelves with Diſcord and Hatred: Wee have therefore given Order to Our Commiſſioners, to Advice and Conſult with Perſons expert in the Intereſts of Hungary, and lovers of Peace, concerning the true meaning of that Proclamation, and the Aſſertaining the ſame, to the end that that which is the chiefeſt thing in all Kingdomes, to wit, a true Underſtanding, may be had between the King and his People, and a laſting Foundation may be laid to the Publick State, as well in Spiritual, as Temporal Affairs. Moreover that an Equal Adminiſtration of Juſtice to the Higheſt and Meaneſt, and a cer<g ref="char:EOLhyphen"/>tain Method and Order may be eſtabliſhed in Our Royal Exchequer, and in Military Affairs; that by Our previous Endeavour and Study in the next Diet, which we ſhall not fail ſo ſuddenly to call, as by God's Aſſiſtance the preſent Troubles will permit, the aforeſaid Proclamation may by farther Conſent and Agreement of the Nobility and States, according to the Cuſtome of the Land, be made a Firm and Perpetual Ordinance, to the end that this Famous Kingdome and Nation may be Reſtored to its Antient Splendour and Glory, and that the Subjects thereof, may with united Minds and Strength contend with their King in order to the Delivery of Themſelves, their Churches, their Wives, Children and Country, from the moſt Barberous Yoke of the Turkiſh Tyrant. We therefore moſt earneſtly exhort all of what State and Condition ſoever that they make uſe of this Our moſt Merciful and Fatherly Intention, of Compoſing the Troubles of this Noble Kingdome, and of providing for them and their Poſterity, that they adhere not to the Fallacies of Ambitious Men, who in theſe Troubles ſeek only their own Advantage; but that rather by a due Submiſſion, they return to the Duty they owe their King, and en<g ref="char:EOLhyphen"/>deavour to Reſtore to their Country, the ſweetneſs of a laſting Peace; and to this end we do of our more abundant Grace declare our Willingneſs to Pardon them. But againſt ſuch as ſhall obſtinately refuſe or neglect this Our tender Grace and Indemnity, and to apply themſelves to Our aforeſaid Com<g ref="char:EOLhyphen"/>miſſioners within the time appointed, and ſhall conſequently Perſevere in Contriving the Ruin of their King, their Country, and all Chriſtendom; We will pro<g ref="char:EOLhyphen"/>ceed according to the utmoſt Severity and Rigour or the Laws, as People by that very Fact Convicted of Treaſon, Condemned and Out-Lawed. Wherefore we Protect before God, Our Poſterity, and the whole Chriſtian World, that we are Clear and Innocent, as to all the Deſolations, Calamities and Miſeries which ſhall by this Occaſion happen to our Kingdome, the Inhabitants of the Neighbouring Provinces, and all Chriſtendom, as having uſed all Imagi<g ref="char:EOLhyphen"/>nable Means for the Redreſſing of them, and conſequently are only to be Imputed to thoſe, who Preferring their Unlimited Ambition and Licenſe to Plunder, be<g ref="char:EOLhyphen"/>fore their own Country and State, refuſe the offers of the Royal and Paternal Indulgence ſo often Repeated to them. Given at Our Caſtle at LINTZ, January the 12th. Anrio Dommini 1684. Of Our Reign over the Romans the 26th. over the Hungarians and the reſt, the 29th. but over the Bohemi<g ref="char:EOLhyphen"/>ans the 28th.</p>
+            <closer>
+               <signed>Leopold</signed>
+               <signed>JOHN GUBASOIRY, Biſhop of NITRIA. JOHN MAHOLAU.</signed>
+               <signed>L.S.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>LONDON, Printed for <hi>James Partridge,</hi> at the Poſt-houſe between <hi>Charing-Croſs</hi> and <hi>Whitehall,</hi> 1684.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
